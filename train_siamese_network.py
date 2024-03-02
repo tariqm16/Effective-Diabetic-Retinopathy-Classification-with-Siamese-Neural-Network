@@ -1,6 +1,5 @@
 # import the necessary packages
 from siamese_network import build_siamese_model
-from siamese_network import build_model_with_attention
 import config
 import utils
 import tensorflow as tf
