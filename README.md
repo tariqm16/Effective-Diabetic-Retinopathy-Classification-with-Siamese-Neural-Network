@@ -24,6 +24,8 @@ The sample images from the dataset are given below:
 ## Code Execution:
 The code is executed by:
 <code>```python train_siamese_network.py```</code>
+
+
 The training architecture of the model can be seen below:
 ![Alt Text](https://github.com/tariqm16/Effective-Diabetic-Retinopathy-Classification-with-Siamese-Neural-Network/blob/main/Images/Siamese_model_Architecture.png)
 
