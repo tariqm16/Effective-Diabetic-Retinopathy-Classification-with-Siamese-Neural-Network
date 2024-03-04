@@ -1,5 +1,9 @@
 # Effective-Diabetic-Retinopathy-Classification-with-Siamese-Neural-Network
-Python Code for Effective Diabetic Retinopathy Classification with Siamese Neural Network: A Strategy for Small Dataset Challenges
+Python Code for Effective Diabetic Retinopathy Classification with Siamese Neural Network: A Strategy for Small Dataset Challenges.
+
+In this paper, we design a few-shot Siamese Neural Networks combined with pre-trained models, such as VGG16, ResNet50, and DenseNet121, to effectively differentiate between
+classes using small lesions in the retinal images. The proposed model is trained based on the similarity between the pair of images using a comparatively small dataset and performs well for
+a five-class classification problem.
 
 ## Compatibility
 The code is tested using Python 3.8.18 and Tensorflow version 2.13.1.
