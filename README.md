@@ -10,4 +10,6 @@ The FGADR dataset has fine-grained annotations on 1842 fundus images with pixel-
 UAE hospitals and is the property of the Inception Institute of Artificial Intelligence, Abu Dhabi. I
 The sample images from the dataset with lesion details are given below:
 
-[The Aptos 2019 dataset can be downloaded from here:] (https://www.kaggle.com/competitions/aptos2019-blindness-detection/data)
+
+
+The Aptos 2019 dataset can be downloaded from here: (https://www.kaggle.com/competitions/aptos2019-blindness-detection/data)
