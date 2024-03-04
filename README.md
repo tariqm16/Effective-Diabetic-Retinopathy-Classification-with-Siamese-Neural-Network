@@ -12,4 +12,6 @@ The sample images from the dataset with lesion details are given below:
 ![Alt Text](https://github.com/tariqm16/Effective-Diabetic-Retinopathy-Classification-with-Siamese-Neural-Network/blob/main/Images/Siamese_model_Classes.png)
 
 
-The Aptos 2019 dataset can be downloaded from here: (https://www.kaggle.com/competitions/aptos2019-blindness-detection/data)
+The Aptos 2019 dataset can be downloaded from here: (https://www.kaggle.com/competitions/aptos2019-blindness-detection/data).
+The sample images from the dataset are given below:
+![Alt Text](https://github.com/tariqm16/Effective-Diabetic-Retinopathy-Classification-with-Siamese-Neural-Network/blob/main/Images/Siamese_model_Aptos_classes.png)
